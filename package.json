@@ -33,7 +33,7 @@
     "remarkable": "^1.7.1",
     "rxjs": "^6.3.3",
     "rxjs-compat": "^6.0.0-rc.0",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.10.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.8.0",
